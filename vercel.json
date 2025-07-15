@@ -18,9 +18,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "env": {
-    "VITE_API_URL": "https://optiroute-backend.onrender.com"
-  },
-  "buildCommand": "npm run build"
+  ]
 }
