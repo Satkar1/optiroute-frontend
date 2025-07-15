@@ -22,6 +22,6 @@
       "@assets/*": ["./attached_assets/*"]
     }
   },
-  "include": ["src", "shared"],
+  "include": ["src", "shared", "vite-env.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
